@@ -30,6 +30,8 @@
 ---
 ### ⚙️ Статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiryhaudmurt)](https://github.com/KiryhaUdmurt)
+<br />
+
 ![codewars](https://www.codewars.com/users/kirya9800/badges/large)
 
 
